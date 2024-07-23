@@ -17,7 +17,7 @@ export var last_visible_lesson_block := {}
 export var is_sponsored_profile := true
 
 # User settings
-export var language := "en"
+export var language := "zh"
 # Relative size adjustment of all fonts, in integer numbers.
 export var font_size_scale := 0
 # Lower contrast enabled
